@@ -1,0 +1,15 @@
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/bin/Debug/net8.0/OCP1
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/bin/Debug/net8.0/OCP1.deps.json
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/bin/Debug/net8.0/OCP1.runtimeconfig.json
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/bin/Debug/net8.0/OCP1.dll
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/bin/Debug/net8.0/OCP1.pdb
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.GeneratedMSBuildEditorConfig.editorconfig
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.AssemblyInfoInputs.cache
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.AssemblyInfo.cs
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.csproj.CoreCompileInputs.cache
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.sourcelink.json
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.dll
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/refint/OCP1.dll
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.pdb
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/OCP1.genruntimeconfig.cache
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/OCP/OCP1/obj/Debug/net8.0/ref/OCP1.dll
