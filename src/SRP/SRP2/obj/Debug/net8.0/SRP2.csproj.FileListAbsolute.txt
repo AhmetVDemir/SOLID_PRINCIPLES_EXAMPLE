@@ -1,0 +1,15 @@
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/bin/Debug/net8.0/SRP2
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/bin/Debug/net8.0/SRP2.deps.json
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/bin/Debug/net8.0/SRP2.runtimeconfig.json
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/bin/Debug/net8.0/SRP2.dll
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/bin/Debug/net8.0/SRP2.pdb
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.GeneratedMSBuildEditorConfig.editorconfig
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.AssemblyInfoInputs.cache
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.AssemblyInfo.cs
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.csproj.CoreCompileInputs.cache
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.sourcelink.json
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.dll
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/refint/SRP2.dll
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.pdb
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/SRP2.genruntimeconfig.cache
+/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/SRP/SRP2/obj/Debug/net8.0/ref/SRP2.dll
