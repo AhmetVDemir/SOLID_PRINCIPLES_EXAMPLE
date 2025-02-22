@@ -13,4 +13,6 @@ bae solid principles examples
    ### Temel Fikir
        -- Türetilmiş sınıflar, temel sınıfların yerine geçebilmeli ve beklenen davranışı bozmayacak şekilde kullanılabilmelidir. Yani, temel sınıfın nesnesi yerine türetilmiş sınıfın nesnesi konulsa, sistem aynı şekilde çalışmalıdır.
 ## 4  Interface Segregation Principle (ISP)
+  ### Temel Fikir
+      -- İstemciler, kullanmadıkları metodları içeren geniş kapsamlı arayüzlere bağımlı olmamalıdır. Bunun yerine, daha küçük, özelleşmiş arayüzler kullanılmalıdır.
 ## 5  Dependency Inversion Principle (DIP)
