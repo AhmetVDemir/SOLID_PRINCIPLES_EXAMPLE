@@ -16,3 +16,5 @@ bae solid principles examples
   ### Temel Fikir
       -- İstemciler, kullanmadıkları metodları içeren geniş kapsamlı arayüzlere bağımlı olmamalıdır. Bunun yerine, daha küçük, özelleşmiş arayüzler kullanılmalıdır.
 ## 5  Dependency Inversion Principle (DIP)
+  ### Temel Fikir
+    -- Yüksek seviye modüller, düşük seviye modüllere bağlı olmamalıdır; her ikisi de soyutlamalara bağlı olmalıdır. Böylece, uygulamanın bağımlılıkları esnek ve değiştirilebilir olur.
