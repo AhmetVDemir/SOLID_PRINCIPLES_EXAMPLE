@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+EXUifVAtC26uAc+iCMb8u2nzzb5cjYvijF9Bwml93LgkGEkX7T39KC/cabQ3fqeQuoQZ7/UtTqOlcU5fzq4CQ==",
+  "success": true,
+  "projectFilePath": "/home/akkam/Belgeler/Projeler/SOLID_PRINCIPLES_EXAMPLE/src/DIP/DIP3/DIP3.csproj",
+  "expectedPackageFiles": [
+    "/home/akkam/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/home/akkam/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
