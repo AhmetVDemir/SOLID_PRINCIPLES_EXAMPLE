@@ -10,5 +10,7 @@ bae solid principles examples
    ### Temel Fikir
        -- Yazılım bileşenleri (sınıflar, modüller) genişlemeye açık (yeni özellik eklenebilir) fakat değişime kapalı (mevcut kod değiştirilmemeli). Böylece mevcut sistemin stabilitesi korunurken, yeni işlevler eklenebilir.
 ## 3  Liskov Substitution Principle (LSP)
+   ### Temel Fikir
+       -- Türetilmiş sınıflar, temel sınıfların yerine geçebilmeli ve beklenen davranışı bozmayacak şekilde kullanılabilmelidir. Yani, temel sınıfın nesnesi yerine türetilmiş sınıfın nesnesi konulsa, sistem aynı şekilde çalışmalıdır.
 ## 4  Interface Segregation Principle (ISP)
 ## 5  Dependency Inversion Principle (DIP)
